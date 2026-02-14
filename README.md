@@ -1,54 +1,58 @@
 <h1 align="center">Alireza Bayati</h1>
-<h3 align="center">Full Stack Developer</h3>
+<p align="center">Full Stack Developer</p>
 
 <p align="center">
-Building scalable, secure and production-ready web applications.
+Designing scalable, secure and production-ready web systems.
 </p>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-- Full Stack Developer specialized in modern JavaScript ecosystem
-- Focused on clean architecture and scalable backend design
-- Experienced in SQL & NoSQL database systems
-- Building production-grade Next.js applications
+Full Stack Developer focused on modern JavaScript architecture.
 
----
+I build modular backend systems, secure authentication flows and scalable database structures using relational and NoSQL technologies.
 
-## 🛠 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![REST API](https://img.shields.io/badge/REST-API-orange)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+Strong emphasis on clean code, maintainability and production standards.
 
 ---
 
-## 📈 GitHub Stats
+## Core Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mr-bayati-1378&show_icons=true&theme=tokyonight)
+**Frontend**  
+Next.js • TypeScript • Tailwind CSS  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bayati-1378&layout=compact&theme=tokyonight)
+**Backend**  
+Node.js • RESTful APIs • Authentication & RBAC  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-bayati-1378&theme=tokyo-night)
+**Databases**  
+PostgreSQL • MySQL • MongoDB  
 
 ---
 
-## 🔥 What I Build
+## Selected Projects
 
-- Scalable Full Stack Applications
-- RESTful APIs with Node.js
-- Modular Backend Architecture
-- Secure Authentication & Role-Based Systems
-- Optimized Database Design
+**Beris**  
+Production-ready medical e-commerce platform built with Next.js and Prisma.  
+Includes admin panel, role-based access control and modular architecture.
+
+AI-powered scraping system for structured data extraction.
+
+Reusable authentication architecture with secure session handling.
+
+---
+
+## Engineering Principles
+
+- Modular architecture
+- Separation of concerns
+- Secure-by-default mindset
+- Scalable database design
+- Clean commit history
+- Production-focused implementation
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bayati-1378&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bayati-1378&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f)
