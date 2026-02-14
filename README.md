@@ -2,7 +2,7 @@
 <p align="center">Full Stack Engineer</p>
 
 <p align="center">
-Building scalable systems with modern JavaScript architecture.
+Building scalable systems with modern React and Node.js architecture.
 </p>
 
 ---
@@ -18,14 +18,12 @@ I design and implement production-grade web applications with strong emphasis on
 - Clean separation of concerns
 - Maintainable and extensible codebases
 
-My work centers around building systems that are reliable, secure and ready for real-world usage.
-
 ---
 
 ## Technology Stack
 
 **Frontend**  
-Next.js • TypeScript • Tailwind CSS  
+React • Next.js • TypeScript • Tailwind CSS  
 
 **Backend**  
 Node.js • RESTful APIs • Authentication Systems  
@@ -38,7 +36,7 @@ PostgreSQL • MySQL • MongoDB
 ## Selected Work
 
 **Beris**  
-Full-stack medical e-commerce platform with admin panel, multi-role access control and modular backend structure.
+Full-stack medical e-commerce platform built with React (Next.js), Prisma and modular backend structure.
 
 AI-powered structured data extraction system.
 
@@ -52,7 +50,7 @@ Reusable authentication architecture designed for scalability and security.
 - Security by default
 - Database-aware design
 - Performance-conscious implementation
-- Clear and consistent commit history
+- Clean and consistent commit history
 
 ---
 
