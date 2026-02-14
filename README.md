@@ -1,58 +1,61 @@
 <h1 align="center">Alireza Bayati</h1>
-<p align="center">Full Stack Developer</p>
+<p align="center">Full Stack Engineer</p>
 
 <p align="center">
-Designing scalable, secure and production-ready web systems.
+Building scalable systems with modern JavaScript architecture.
 </p>
 
 ---
 
-## Profile
+## Engineering Focus
 
-Full Stack Developer focused on modern JavaScript architecture.
+I design and implement production-grade web applications with strong emphasis on:
 
-I build modular backend systems, secure authentication flows and scalable database structures using relational and NoSQL technologies.
+- Modular system architecture
+- Secure authentication flows
+- Role-based access control (RBAC)
+- Scalable relational and NoSQL database design
+- Clean separation of concerns
+- Maintainable and extensible codebases
 
-Strong emphasis on clean code, maintainability and production standards.
+My work centers around building systems that are reliable, secure and ready for real-world usage.
 
 ---
 
-## Core Stack
+## Technology Stack
 
 **Frontend**  
 Next.js • TypeScript • Tailwind CSS  
 
 **Backend**  
-Node.js • RESTful APIs • Authentication & RBAC  
+Node.js • RESTful APIs • Authentication Systems  
 
-**Databases**  
+**Data Layer**  
 PostgreSQL • MySQL • MongoDB  
 
 ---
 
-## Selected Projects
+## Selected Work
 
 **Beris**  
-Production-ready medical e-commerce platform built with Next.js and Prisma.  
-Includes admin panel, role-based access control and modular architecture.
+Full-stack medical e-commerce platform with admin panel, multi-role access control and modular backend structure.
 
-AI-powered scraping system for structured data extraction.
+AI-powered structured data extraction system.
 
-Reusable authentication architecture with secure session handling.
-
----
-
-## Engineering Principles
-
-- Modular architecture
-- Separation of concerns
-- Secure-by-default mindset
-- Scalable database design
-- Clean commit history
-- Production-focused implementation
+Reusable authentication architecture designed for scalability and security.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-bayati-1378&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f)
+## Principles
+
+- Production-first mindset
+- Security by default
+- Database-aware design
+- Performance-conscious implementation
+- Clear and consistent commit history
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mr-bayati-1378&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bayati-1378&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9f9f9f)
